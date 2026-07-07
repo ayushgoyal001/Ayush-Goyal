@@ -117,10 +117,9 @@ I'm a **Software Engineer** specializing in building **scalable, distributed, pr
 
 | Recognition | Details |
 |---|---|
-
-| 📜 **Hackathon winner** | Won Best Proposal Award for Thapar Sustainathon |
-| 🎓 **Scholarship** | Awarded merit cum scholarship for year 2025 - 2026 |
-| 💡 **Best Data science Expert** | Awarded Best Data Science Expert  |
+| 📜 **Hackathon Winner** | Won Best Proposal Award at Thapar Sustainathon |
+| 🎓 **Scholarship** | Awarded Merit-cum-Scholarship for 2025–2026 |
+| 💡 **Best Data Science Expert** | Recognized as Best Data Science Expert |
 
 </div>
 
